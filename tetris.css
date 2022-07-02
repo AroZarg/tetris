@@ -1,0 +1,12 @@
+body{
+    background-image: url(https://scitechdaily.com/images/Colorful-Tetris-Tiles-777x524.jpg?ezimgfmt=ng:webp/ngcb1);
+}
+* {
+    padding: 0;
+    margin: 0;
+}
+canvas{
+    background: #eee;
+    display: block;
+    margin: 0 auto;
+}
